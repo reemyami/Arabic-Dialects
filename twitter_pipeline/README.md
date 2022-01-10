@@ -1,3 +1,3 @@
 # Twitter-Pipeline 
 
-![twitter_pipeline](/Arabic-Dialects/images/twitter_pipeline.png)
+![twitter_pipeline](https://github.com/reemalyami/Arabic-Dialects/blob/main/images/twitter_pipeline.png)

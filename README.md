@@ -1,3 +1,3 @@
 # Arabic-Dialects
 
-![resources_image](resources_image.png)
+![resources_image](image/resources_image.png)
